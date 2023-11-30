@@ -1,0 +1,1 @@
+call `mvn test` to reproduce problem reported in https://github.com/spring-projects/spring-data-mongodb/issues/4576
